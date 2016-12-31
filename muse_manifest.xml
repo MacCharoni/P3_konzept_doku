@@ -1,0 +1,71 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="TeamCargo.de" resolutions="1x" timestamp="1479423352364">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="3764702045" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="customer_journey.jpg" crc="219462073" seo="true" mt="1479407653000"/>
+    <file name="fhgfhfg.png" crc="4044684485" seo="true" mt="1479422877000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u430-6.png" crc="4069775005" ref="index"/>
+    <file name="u97-4.png" crc="72606362" ref="index"/>
+    <file name="u550-4.png" crc="511274942" ref="index"/>
+    <file name="andre.png" crc="188772976" seo="true" ref="index"/>
+    <file name="ut.png" crc="4005640142" seo="true" ref="index"/>
+    <file name="king.png" crc="4099156543" seo="true" ref="index"/>
+    <file name="menki.png" crc="4136403887" seo="true" ref="index"/>
+    <file name="u971-4.png" crc="125792004" ref="index"/>
+    <file name="img_8032-crop-u1022.jpg" crc="4088614306" ref="index"/>
+    <file name="u105-4.png" crc="4093350343" ref="index"/>
+    <file name="u564-6.png" crc="366306909" ref="index"/>
+    <file name="u1141-4.png" crc="4062018999" ref="index"/>
+    <file name="pexels-photo.jpg" crc="4207126176" seo="true" ref="index"/>
+    <file name="longjohn11b.jpg" crc="239370846" seo="true" ref="index"/>
+    <file name="9291727026_f2d266278f_o-crop-u1443.jpg" crc="4251725070" ref="index"/>
+    <file name="u1147-4.png" crc="279242957" ref="index"/>
+    <file name="stocksy_txp39688877yhf100_medium_482421.jpg" crc="212832977" seo="true" ref="index"/>
+    <file name="u7545-4.png" crc="3777598930" ref="index"/>
+    <file name="silhouette-of-friends-jumping-into-sea.jpg" crc="344148186" seo="true" ref="index"/>
+    <file name="u1381-4.png" crc="4060789901" ref="index"/>
+    <file name="hanna.jpg" crc="217732921" seo="true" ref="index"/>
+    <file name="u1157-4.png" crc="483948567" ref="index"/>
+    <file name="add-oncargobike_zeichnung.jpg" crc="4205032721" seo="true" ref="index"/>
+    <file name="u1164-4.png" crc="4025749805" ref="index"/>
+    <file name="u1258-4.png" crc="139448093" ref="index"/>
+    <file name="u1361-4.png" crc="20247337" ref="index"/>
+    <file name="systemdiagramm.jpg" crc="169778312" seo="true" ref="index"/>
+    <file name="u1641-4.png" crc="3792506135" ref="index"/>
+    <file name="u1646-4.png" crc="158300288" ref="index"/>
+    <file name="swimlane_haendler.jpg" crc="4241333768" seo="true" ref="index"/>
+    <file name="swimlane_endkunde.jpg" crc="3936526423" seo="true" ref="index"/>
+    <file name="u1651-4.png" crc="3853647880" ref="index"/>
+    <file name="u1669-4.png" crc="4091220276" ref="index"/>
+    <file name="anwendungscharakter_endnutzer (1).jpg" crc="4264030008" seo="true" ref="index"/>
+    <file name="u1661-4.png" crc="3779065947" ref="index"/>
+    <file name="paperprototyp_endkunde (1).jpg" crc="57876632" seo="true" ref="index"/>
+    <file name="u1656-4.png" crc="3853647880" ref="index"/>
+    <file name="u1674-4.png" crc="4091220276" ref="index"/>
+    <file name="anwendungscharakter_haendler.jpg" crc="4221235374" seo="true" ref="index"/>
+    <file name="u3225-4.png" crc="264065046" ref="index"/>
+    <file name="paperprototyp_haendler.jpg" crc="4072660085" seo="true" ref="index"/>
+    <file name="u1550-4.png" crc="451523566" ref="index"/>
+    <file name="bildschirmfoto 2016-11-17 um 044605.jpg" crc="74937879" seo="true" ref="index"/>
+    <file name="bildschirmfoto 2016-11-17 um 042601.jpg" crc="4112968577" seo="true" ref="index"/>
+    <file name="u2128-4.png" crc="3991064576" ref="index"/>
+    <file name="u2186-4.png" crc="4241582979" ref="index"/>
+    <file name="systemdiagram-technik.jpg" crc="118286444" seo="true" ref="index"/>
+    <file name="u7576-4.png" crc="3857148421" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4071571583" seo="true" mt="1479423265533" redirect="true"/>
+</manifest>
